@@ -2,30 +2,37 @@
 Este é um boilerplate para aplicações web feitas com React, Vite, Typescript e Styled Components.
 
 ## Pré-requisitos
-Node.js
-Yarn
+- Node.js
+- Yarn
 
 ## Instalação
 Clone o repositório
 
 Navegue até a pasta do projeto e execute o seguinte comando para instalar as dependências:
 
+```sh
 yarn install
+```
 
 ## Uso
 Execute o seguinte comando para iniciar o servidor de desenvolvimento:
 
+```sh
 yarn dev
+```
 
 Abra o seu navegador e acesse http://localhost:3000 para visualizar a aplicação.
 
 Para criar uma build de produção, execute o seguinte comando:
 
+```sh
 yarn build
+```
 
 Os arquivos serão gerados na pasta dist.
 
-Configuração
+## Configuração
+
 Este projeto foi configurado com as seguintes ferramentas:
 
 Vite - para o desenvolvimento de frontend
